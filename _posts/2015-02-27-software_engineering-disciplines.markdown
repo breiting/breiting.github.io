@@ -13,7 +13,7 @@ implemented properly. However, the orange topics need to be handled by the
 individual developers. Both sides are required for a proper development
 environment.
 
-![]({{site.url}}/assets/disciplines.png)
+![]({{ site.url }}/assets/disciplines.png)
 
 # Management
 
