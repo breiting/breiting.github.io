@@ -1,0 +1,32 @@
+---
+layout: post
+title:  "Welcome"
+date:   2015-02-06
+categories: misc
+---
+This post starts a new series of software engineering topics and practices I
+want to share with the community. As a software consultant running my own
+business, I am confronted with lot of topics around software engineering and
+agile project management. Before starting my first technical post, I want to
+write a small summary of my professional career.
+
+I studied computer science at the JKU in Linz, Austria and finished my master
+degree (Dipl.-Ing.) in 2001. After working as a software developer for one
+year, I decided to start a PhD program at the Technical University of Graz. My
+focus was on Virtual Reality technologies and medical imaging. After finishing
+my PhD, I was project manager in a big EU project (FP7) researching ways of how
+to use new technologies (i.e. Virtual and Augmented Reality technologies) for
+planning urban cities.
+
+In 2007, I suddenly got a call from Microsoft and got hired as a software team
+lead. I was employed for almost 6 years and was leading a software development
+team working on cutting edge products for the digital aerial survey market.
+During that time I already got in touch with agile software engineering and
+tried different approaches like Scrum or Kanban. Besides software development,
+      I also got the chance getting trained as a manager empowering a team to
+      high performance. In 2013, I finally decided to start my own business.
+      Besides several software development projects for my customers, my main
+      focus is on agile project management and software engineering consulting.
+
+
+[reecon]: http://www.reecon.at

@@ -1,0 +1,11 @@
+title: reecon blog
+email: br@reecon.at
+description: > # this means to ignore newlines until "baseurl:"
+  This is the blog of Bernhard Reitinger.
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "http://blog.reecon.at" # the base hostname & protocol for your site
+twitter_username: allaboutsoftware
+github_username:  breiting
+
+# Build settings
+markdown: kramdown
