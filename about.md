@@ -4,7 +4,9 @@ title: About
 permalink: /about/
 ---
 
-![]({{ site.url }}/assets/br.jpg)
+<div class="container">
+<img src="{{ site.url }}/assets/br.jpg" width="300px"/>
+</div>
 
 Hi, my name is Bernhard Reitinger and I am founder of the software consulting
 company <a href="www.reecon.at">reecon</a>. As a software consultant I am working with clients to establish

@@ -3,6 +3,7 @@ layout: post
 title:  "Pimp your code"
 date:   2015-08-28
 categories: style
+comments: True
 ---
 Joining a new software development team typically means new coding guidelines
 and rules. If you are lucky and no guidelines are in place, it is your
