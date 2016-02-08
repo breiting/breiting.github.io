@@ -24,7 +24,7 @@ with parameters that are derived from historical project data and current as
 well as future project characteristics [taken from Wikipedia]. The COCOMO
 formula is pretty simple:
 
-`E = a * KLOC^b * EAF`
+$$E = a * KLOC^b * EAF$$
 
 where E is the effort applied in person-months, KLOC is the estimated number of
 thousands of delivered lines of code for the project, and EAF is the factor
