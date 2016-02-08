@@ -6,8 +6,7 @@ categories: misc
 ---
 
 Another year passed, and I am looking back to a very successful business year.
-Besides our customer projects, we also refurbished our web page (<a
-    href="http://www.reecon.at" target="_blank">http://www.reecon.at</a>)
+Besides our customer projects, we also refurbished our [web page](http://www.reecon.at)
 giving a good overview about our portfolio. Actually this blog is also a result
 of this year's activities.
 
