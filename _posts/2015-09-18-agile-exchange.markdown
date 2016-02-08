@@ -12,7 +12,7 @@ href="http://www.experten.cc/home" target="_blank">Agile Competence ExChange
   workshop</a> in Graz.  I had the chance to participate at this well-organized
   event.
 
-![]({{ site.url }}/assets/agile-exchange2015.jpg)
+![]({{ site.url }}/assets/agile-exchange2015.jpg){: .center-image}
 
 <!--more-->Mag.a Erika <a href="http://www.kkwico.at" target="_blank">Krenn-Neuwirth</a> started with a keynote speech about agile leadership and addresses the importance of bringing agile thinking in the heads of managers. Agile leaders empower their team, build trust, and make progress of the team visible. Agile managers keep a close collaboration with each individual by scheduling regular 1on1s (this is the simplest but still the less used method of managers today). Agile leaders reduce the time for administrative work, and spend more time in strategic thinking. The talk closed with two important statements:
 <ol>
