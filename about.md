@@ -4,6 +4,8 @@ title: About
 permalink: /about/
 ---
 
+![]({{ site.url }}/assets/br.jpg)
+
 Hi, my name is Bernhard Reitinger and I am founder of the software consulting
 company <a href="www.reecon.at">reecon</a>. As a software consultant I am working with clients to establish
 or improve software development practices. I am also working as an agile
