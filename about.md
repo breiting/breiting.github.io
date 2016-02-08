@@ -4,9 +4,7 @@ title: About
 permalink: /about/
 ---
 
-<div class="container">
-<img src="{{ site.url }}/assets/br.jpg" width="300px"/>
-</div>
+![portrait]({{ site.url }}/assets/br.jpg){:style="margin: 30px auto; width: 300px; border-radius: 100%; display: block;"}
 
 Hi, my name is Bernhard Reitinger and I am founder of the software consulting
 company <a href="www.reecon.at">reecon</a>. As a software consultant I am working with clients to establish
