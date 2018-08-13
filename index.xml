@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Bernhard&#39;s Blog</title>
+    <link>https://breiting.github.io/</link>
+    <description>Recent content on Bernhard&#39;s Blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 13 Aug 2018 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://breiting.github.io/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>REX operating system</title>
+      <link>https://breiting.github.io/projects/rex/</link>
+      <pubDate>Mon, 13 Aug 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://breiting.github.io/projects/rex/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>OpenREX</title>
+      <link>https://breiting.github.io/projects/openrex/</link>
+      <pubDate>Mon, 13 Nov 2017 12:21:16 -0500</pubDate>
+      
+      <guid>https://breiting.github.io/projects/openrex/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>rx - cli for REX</title>
+      <link>https://breiting.github.io/projects/rx/</link>
+      <pubDate>Mon, 13 Aug 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://breiting.github.io/projects/rx/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>About</title>
+      <link>https://breiting.github.io/about/</link>
+      <pubDate>Mon, 13 Aug 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://breiting.github.io/about/</guid>
+      <description>My name is Bernhard Reitinger and software development is my passion. I bought my first PC equipped with a 80286 in the late eigthies working with MS-DOS. In 1995 is started my computer science studies at JKU Linz, Austria, and graduated as Dr. techn. at Graz University of Technology in the year 2005.
+After founding reecon - a software consulting company - in 2013, I started my next venture with Robotic Eyes where I am acting as CTO.</description>
+    </item>
+    
+    <item>
+      <title>Contact</title>
+      <link>https://breiting.github.io/contact/</link>
+      <pubDate>Mon, 13 Aug 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://breiting.github.io/contact/</guid>
+      <description>Please use the social channels to reach me.</description>
+    </item>
+    
+    <item>
+      <title>Pimp your code</title>
+      <link>https://breiting.github.io/blog/pimp-your-code/</link>
+      <pubDate>Mon, 13 Aug 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://breiting.github.io/blog/pimp-your-code/</guid>
+      <description>Joining a new software development team typically means new coding guidelines and rules. If you are lucky and no guidelines are in place, it is your obligation to take care and define them. To my opinion, coding guidelines make sense and are important for the product quality. They deliver a good foundation for collaborative developments and easy maintenance. I am not talking about a 50 pager, where everything is defined - no - only the most important things should be part of the guideline, for example:</description>
+    </item>
+    
+    <item>
+      <title>The Go language</title>
+      <link>https://breiting.github.io/blog/coffee-ipsum/</link>
+      <pubDate>Mon, 13 Aug 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://breiting.github.io/blog/coffee-ipsum/</guid>
+      <description>I recently discovered the &amp;ldquo;new&amp;rdquo; programming language Go and really got my attention. Go was announced in November 2009 and the first version (v1.0) was released in March 2012. Go has strong influence from the C programming language but brings some cool features:
+ Statically typed and scalable to large systems (like Java or C++) Productive and readable, without excessive boilerplate Not requiring integrated development environments (nice VIM integration :-) Supporting networking and multiprocessing  Mandatory for every programming language, there is my first Go program (main.</description>
+    </item>
+    
+  </channel>
+</rss>

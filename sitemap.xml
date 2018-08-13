@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
+  <url>
+    <loc>https://breiting.github.io/projects/rex/</loc>
+    <lastmod>2018-08-13T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://breiting.github.io/projects/openrex/</loc>
+    <lastmod>2017-11-13T12:21:16-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://breiting.github.io/projects/rx/</loc>
+    <lastmod>2018-08-13T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://breiting.github.io/about/</loc>
+    <lastmod>2018-08-13T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://breiting.github.io/contact/</loc>
+    <lastmod>2018-08-13T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://breiting.github.io/blog/pimp-your-code/</loc>
+    <lastmod>2018-08-13T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://breiting.github.io/blog/coffee-ipsum/</loc>
+    <lastmod>2018-08-13T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://breiting.github.io/</loc>
+    <lastmod>2018-08-13T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://breiting.github.io/blog/</loc>
+    <lastmod>2018-08-13T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://breiting.github.io/categories/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://breiting.github.io/tags/coding/</loc>
+    <lastmod>2018-08-13T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://breiting.github.io/tags/editor/</loc>
+    <lastmod>2018-08-13T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://breiting.github.io/tags/go/</loc>
+    <lastmod>2018-08-13T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://breiting.github.io/tags/golang/</loc>
+    <lastmod>2018-08-13T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://breiting.github.io/tags/primer/</loc>
+    <lastmod>2018-08-13T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://breiting.github.io/projects/</loc>
+    <lastmod>2018-08-13T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://breiting.github.io/tags/style/</loc>
+    <lastmod>2018-08-13T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://breiting.github.io/tags/</loc>
+    <lastmod>2018-08-13T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+</urlset>
