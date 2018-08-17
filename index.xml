@@ -39,6 +39,16 @@
     </item>
     
     <item>
+      <title>Working with remote machines</title>
+      <link>https://breiting.github.io/blog/remote_machines/</link>
+      <pubDate>Fri, 17 Aug 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://breiting.github.io/blog/remote_machines/</guid>
+      <description>As a heavy shell user, I typically try to reduce the number of keystrokes required to fulfill a certain task. As I am working a lot with remote machines, I am logging into those machines pretty often.
+Problem statement In order to log into a remote machine, I am using the ssh command. The typical command is ssh &amp;lt;user&amp;gt;@192.168.0.123, if the user is named differently on the other machine. I am often facing the following problems:</description>
+    </item>
+    
+    <item>
       <title>About</title>
       <link>https://breiting.github.io/about/</link>
       <pubDate>Mon, 13 Aug 2018 00:00:00 +0000</pubDate>
@@ -68,10 +78,10 @@ After founding reecon - a software consulting company - in 2013, I started my ne
     
     <item>
       <title>The Go language</title>
-      <link>https://breiting.github.io/blog/coffee-ipsum/</link>
+      <link>https://breiting.github.io/blog/go-lang/</link>
       <pubDate>Mon, 13 Aug 2018 00:00:00 +0000</pubDate>
       
-      <guid>https://breiting.github.io/blog/coffee-ipsum/</guid>
+      <guid>https://breiting.github.io/blog/go-lang/</guid>
       <description>I recently discovered the &amp;ldquo;new&amp;rdquo; programming language Go and really got my attention. Go was announced in November 2009 and the first version (v1.0) was released in March 2012. Go has strong influence from the C programming language but brings some cool features:
  Statically typed and scalable to large systems (like Java or C++) Productive and readable, without excessive boilerplate Not requiring integrated development environments (nice VIM integration :-) Supporting networking and multiprocessing  Mandatory for every programming language, there is my first Go program (main.</description>
     </item>
