@@ -13,10 +13,10 @@
 <title>
 
 
-     About 
+     The Go language 
 
 </title>
-<link rel="canonical" href="https://breiting.github.io/about/">
+<link rel="canonical" href="https://breiting.github.io/blog/2018-08-13-golang/">
 
 
 
@@ -52,9 +52,10 @@
 
     <div class="section" id="top">
         
+
         <div class="container hero ">
             
-            <h1 class="bold-title is-1">About</h1>
+            <h1 class="bold-title is-1">Blog</h1>
         </div>
         
 
@@ -89,7 +90,7 @@
       
       <span class="nav-item">
         
-        <a href="/blog">Blog</a>
+        <a href="/blog">Back to Blog</a>
         
       </span>
       
@@ -110,23 +111,56 @@
             </div>
             
 
+            <div class="container ">
+                
+                <h2 class="title is-1 top-pad strong-post-title">
+                    <a href="https://breiting.github.io/blog/2018-08-13-golang/">The Go language</a>
+                </h2>
+                <div class="post-data">
+                    Aug 13, 2018 | 1 minute
+                    read
+                </div>
+
+                
+                <div class="blog-share">
+                    Share this: 
+                    <a class="twitter-share-button" href="https://twitter.com/intent/tweet?text=Read%20The%20Go%20language%20https%3a%2f%2fbreiting.github.io%2fblog%2f2018-08-13-golang%2f" onclick="window.open(this.href, 'twitter-share', 'width=550,height=235');return false;">
+                        <i class="fa fa-twitter"></i>
+                        <span class="hidden">Twitter</span>
+                    </a>
+                       
+                </div>
+                
+
+            </div>
+            
+
             <div class="container markdown  top-pad">
                 
-                 <p>Software development is my passion. I bought my first PC equipped with a
-<a href="https://en.wikipedia.org/wiki/Intel_80286">80286</a> in the late eighties working with
-<a href="https://en.wikipedia.org/wiki/MS-DOS">MS-DOS</a>. In 1995 is started my computer science studies at JKU Linz, Austria, and
-graduated as Dr. techn. at Graz University of Technology in the year 2005.</p>
+                <p>I recently discovered the &ldquo;new&rdquo; programming language <a href="https://golang.org">Go</a> and really got my attention. Go was
+announced in November 2009 and the first version (v1.0) was released in March 2012. Go has strong influence from the C
+programming language but brings some cool features:</p>
 
-<p>After founding <a href="https://www.reecon.at">reecon</a> - a software consulting company - in 2013, I started my
-next venture with <a href="https://www.robotic-eyes.com">Robotic Eyes</a> where I am acting as technical director.</p>
+<ul>
+<li>Statically typed and scalable to large systems (like Java or C++)</li>
+<li>Productive and readable, without excessive boilerplate</li>
+<li>Not requiring integrated development environments (nice VIM integration :-)</li>
+<li>Supporting networking and multiprocessing</li>
+</ul>
 
-<p>I am a <a href="https://en.wikipedia.org/wiki/Linux">Linux</a> geek, and currently running <a href="https://www.archlinux.org/">Arch Linux</a>
-on my Macbook Pro. I am a passionate <a href="https://www.vim.org/">vim</a> user and living mainly in the CLI
-world.</p>
+<p>Mandatory for every programming language, there is my first Go program (<code>main.go</code>):</p>
 
-<p>This site is a collection of interesting stuff I am working on, or things which are keeping me busy.
-Please feel free to visit my work on <a href="https:/github.com/breiting">GitHub</a> or things we are working
-on at <a href="https://github.com/roboticeyes">Robotic Eyes</a>.</p>
+<div class="highlight"><pre style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4"><code class="language-go" data-lang="go"><span style="color:#f92672">package</span> <span style="color:#a6e22e">main</span>
+
+<span style="color:#f92672">import</span> <span style="color:#e6db74">&#34;fmt&#34;</span>
+
+<span style="color:#66d9ef">func</span> <span style="color:#a6e22e">main</span>() {
+    <span style="color:#a6e22e">fmt</span>.<span style="color:#a6e22e">Println</span>(<span style="color:#e6db74">&#34;Hi Gopher!&#34;</span>)
+}</code></pre></div>
+
+<p>You can easily run your first Go program from your terminal:</p>
+<div class="highlight"><pre style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4"><code class="language-sh" data-lang="sh">$ go run main.go</code></pre></div>
+<p>Start now and download Go on your <a href="https://golang.org/dl/">machine</a>.</p>
 
             </div>
             
@@ -137,7 +171,7 @@ on at <a href="https://github.com/roboticeyes">Robotic Eyes</a>.</p>
 
             <div class="container has-text-centered top-pad">
                 <hr>
-                <a href="#top">
+                <a href="https://breiting.github.io/blog/2018-08-13-golang/#top">
                     <i class="fa fa-arrow-up"></i>
                 </a>
                 <hr>
@@ -158,7 +192,7 @@ on at <a href="https://github.com/roboticeyes">Robotic Eyes</a>.</p>
 
     
     <script>
-        $('a[href^="https:\/\/breiting.github.io\/about\/#"]').click(function (e) {
+        $('a[href^="https:\/\/breiting.github.io\/blog\/2018-08-13-golang\/#"]').click(function (e) {
             e.preventDefault();
             var target = this.hash;
             $('html, body').animate({

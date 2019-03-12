@@ -30,20 +30,29 @@
     </item>
     
     <item>
-      <title>rx - cli for REX</title>
+      <title>GoREX</title>
       <link>https://breiting.github.io/projects/rx/</link>
-      <pubDate>Mon, 13 Aug 2018 00:00:00 +0000</pubDate>
+      <pubDate>Mon, 11 Mar 2019 00:00:00 +0000</pubDate>
       
       <guid>https://breiting.github.io/projects/rx/</guid>
       <description></description>
     </item>
     
     <item>
+      <title>How suckless changes my life</title>
+      <link>https://breiting.github.io/blog/2019-03-12-suckless/</link>
+      <pubDate>Tue, 05 Feb 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://breiting.github.io/blog/2019-03-12-suckless/</guid>
+      <description>In the last years, I tried get more efficient by removing bloated software on my machine. Some of you may know that I am running Arch Linux, which builds the basis for my daily activities. On top of it, the terminal is my main working area. Last year I switched from traditional window managers to the tiling window manager dwm. Tiling window managers have the advantage that your screen is not messed up with floating windows which need to be moved, resized using the mouse.</description>
+    </item>
+    
+    <item>
       <title>Working with remote machines</title>
-      <link>https://breiting.github.io/blog/remote_machines/</link>
+      <link>https://breiting.github.io/blog/2018-08-17-remote-machines/</link>
       <pubDate>Fri, 17 Aug 2018 00:00:00 +0000</pubDate>
       
-      <guid>https://breiting.github.io/blog/remote_machines/</guid>
+      <guid>https://breiting.github.io/blog/2018-08-17-remote-machines/</guid>
       <description>As a heavy shell user, I typically try to reduce the number of keystrokes required to fulfill a certain task. As I am working a lot with remote machines, I am logging into those machines pretty often.
 Problem statement In order to log into a remote machine, I am using the ssh command. The typical command is ssh &amp;lt;user&amp;gt;@192.168.0.123, if the user is named differently on the other machine. I am often facing the following problems:</description>
     </item>
@@ -54,8 +63,8 @@ Problem statement In order to log into a remote machine, I am using the ssh comm
       <pubDate>Mon, 13 Aug 2018 00:00:00 +0000</pubDate>
       
       <guid>https://breiting.github.io/about/</guid>
-      <description>My name is Bernhard Reitinger and software development is my passion. I bought my first PC equipped with a 80286 in the late eigthies working with MS-DOS. In 1995 is started my computer science studies at JKU Linz, Austria, and graduated as Dr. techn. at Graz University of Technology in the year 2005.
-After founding reecon - a software consulting company - in 2013, I started my next venture with Robotic Eyes where I am acting as CTO.</description>
+      <description>Software development is my passion. I bought my first PC equipped with a 80286 in the late eighties working with MS-DOS. In 1995 is started my computer science studies at JKU Linz, Austria, and graduated as Dr. techn. at Graz University of Technology in the year 2005.
+After founding reecon - a software consulting company - in 2013, I started my next venture with Robotic Eyes where I am acting as technical director.</description>
     </item>
     
     <item>
@@ -69,19 +78,19 @@ After founding reecon - a software consulting company - in 2013, I started my ne
     
     <item>
       <title>Pimp your code</title>
-      <link>https://breiting.github.io/blog/pimp-your-code/</link>
+      <link>https://breiting.github.io/blog/2018-08-13-pimp-your-code/</link>
       <pubDate>Mon, 13 Aug 2018 00:00:00 +0000</pubDate>
       
-      <guid>https://breiting.github.io/blog/pimp-your-code/</guid>
+      <guid>https://breiting.github.io/blog/2018-08-13-pimp-your-code/</guid>
       <description>Joining a new software development team typically means new coding guidelines and rules. If you are lucky and no guidelines are in place, it is your obligation to take care and define them. To my opinion, coding guidelines make sense and are important for the product quality. They deliver a good foundation for collaborative developments and easy maintenance. I am not talking about a 50 pager, where everything is defined - no - only the most important things should be part of the guideline, for example:</description>
     </item>
     
     <item>
       <title>The Go language</title>
-      <link>https://breiting.github.io/blog/go-lang/</link>
+      <link>https://breiting.github.io/blog/2018-08-13-golang/</link>
       <pubDate>Mon, 13 Aug 2018 00:00:00 +0000</pubDate>
       
-      <guid>https://breiting.github.io/blog/go-lang/</guid>
+      <guid>https://breiting.github.io/blog/2018-08-13-golang/</guid>
       <description>I recently discovered the &amp;ldquo;new&amp;rdquo; programming language Go and really got my attention. Go was announced in November 2009 and the first version (v1.0) was released in March 2012. Go has strong influence from the C programming language but brings some cool features:
  Statically typed and scalable to large systems (like Java or C++) Productive and readable, without excessive boilerplate Not requiring integrated development environments (nice VIM integration :-) Supporting networking and multiprocessing  Mandatory for every programming language, there is my first Go program (main.</description>
     </item>
