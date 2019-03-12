@@ -41,7 +41,7 @@
     <item>
       <title>How suckless changes my life</title>
       <link>https://breiting.github.io/blog/2019-03-12-suckless/</link>
-      <pubDate>Tue, 05 Feb 2019 00:00:00 +0000</pubDate>
+      <pubDate>Tue, 12 Mar 2019 00:00:00 +0000</pubDate>
       
       <guid>https://breiting.github.io/blog/2019-03-12-suckless/</guid>
       <description>In the last years, I tried get more efficient by removing bloated software on my machine. Some of you may know that I am running Arch Linux, which builds the basis for my daily activities. On top of it, the terminal is my main working area. Last year I switched from traditional window managers to the tiling window manager dwm. Tiling window managers have the advantage that your screen is not messed up with floating windows which need to be moved, resized using the mouse.</description>
