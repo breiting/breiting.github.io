@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>docker on Bernhard&#39;s Blog</title>
+    <link>https://breiting.github.io/tags/docker/</link>
+    <description>Recent content in docker on Bernhard&#39;s Blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 21 May 2019 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://breiting.github.io/tags/docker/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Enable tcp access for docker</title>
+      <link>https://breiting.github.io/blog/2019-05-21-docker-tcp/</link>
+      <pubDate>Tue, 21 May 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://breiting.github.io/blog/2019-05-21-docker-tcp/</guid>
+      <description>On my Arch system, docker does not expose the tcp port by default, therefore I get the following error:
+Warning: failed to get default registry endpoint from daemon (Cannot connect to the Docker daemon at tcp://192.168.0.16:2375. Is the docker daemon running?). Using system default: https://index.docker.io/v1/ Cannot connect to the Docker daemon at tcp://192.168.0.16:2375. Is the docker daemon running?  It took me quite some time to get the root cause of the problem.</description>
+    </item>
+    
+  </channel>
+</rss>

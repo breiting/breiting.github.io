@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>style on Bernhard&#39;s Blog</title>
+    <link>https://breiting.github.io/tags/style/</link>
+    <description>Recent content in style on Bernhard&#39;s Blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 13 Aug 2018 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://breiting.github.io/tags/style/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Pimp your code</title>
+      <link>https://breiting.github.io/blog/2018-08-13-pimp-your-code/</link>
+      <pubDate>Mon, 13 Aug 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://breiting.github.io/blog/2018-08-13-pimp-your-code/</guid>
+      <description>Joining a new software development team typically means new coding guidelines and rules. If you are lucky and no guidelines are in place, it is your obligation to take care and define them. To my opinion, coding guidelines make sense and are important for the product quality. They deliver a good foundation for collaborative developments and easy maintenance. I am not talking about a 50 pager, where everything is defined - no - only the most important things should be part of the guideline, for example:</description>
+    </item>
+    
+  </channel>
+</rss>

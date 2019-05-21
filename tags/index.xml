@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tags on Bernhard&#39;s Blog</title>
+    <link>https://breiting.github.io/tags/</link>
+    <description>Recent content in Tags on Bernhard&#39;s Blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 21 May 2019 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://breiting.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>docker</title>
+      <link>https://breiting.github.io/tags/docker/</link>
+      <pubDate>Tue, 21 May 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://breiting.github.io/tags/docker/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>minimal</title>
+      <link>https://breiting.github.io/tags/minimal/</link>
+      <pubDate>Tue, 12 Mar 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://breiting.github.io/tags/minimal/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>no waste</title>
+      <link>https://breiting.github.io/tags/no-waste/</link>
+      <pubDate>Tue, 12 Mar 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://breiting.github.io/tags/no-waste/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>suckless</title>
+      <link>https://breiting.github.io/tags/suckless/</link>
+      <pubDate>Tue, 12 Mar 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://breiting.github.io/tags/suckless/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>functions</title>
+      <link>https://breiting.github.io/tags/functions/</link>
+      <pubDate>Fri, 17 Aug 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://breiting.github.io/tags/functions/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>shell</title>
+      <link>https://breiting.github.io/tags/shell/</link>
+      <pubDate>Fri, 17 Aug 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://breiting.github.io/tags/shell/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>zsh</title>
+      <link>https://breiting.github.io/tags/zsh/</link>
+      <pubDate>Fri, 17 Aug 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://breiting.github.io/tags/zsh/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>coding</title>
+      <link>https://breiting.github.io/tags/coding/</link>
+      <pubDate>Mon, 13 Aug 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://breiting.github.io/tags/coding/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>editor</title>
+      <link>https://breiting.github.io/tags/editor/</link>
+      <pubDate>Mon, 13 Aug 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://breiting.github.io/tags/editor/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>go</title>
+      <link>https://breiting.github.io/tags/go/</link>
+      <pubDate>Mon, 13 Aug 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://breiting.github.io/tags/go/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>golang</title>
+      <link>https://breiting.github.io/tags/golang/</link>
+      <pubDate>Mon, 13 Aug 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://breiting.github.io/tags/golang/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>primer</title>
+      <link>https://breiting.github.io/tags/primer/</link>
+      <pubDate>Mon, 13 Aug 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://breiting.github.io/tags/primer/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>style</title>
+      <link>https://breiting.github.io/tags/style/</link>
+      <pubDate>Mon, 13 Aug 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://breiting.github.io/tags/style/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
