@@ -1,0 +1,309 @@
+<!doctype html>
+<html lang="en-us">
+  <head>
+    <title>How suckless changes my life // @breiting</title>
+    <meta charset="utf-8" />
+    <meta name="generator" content="Hugo 0.67.1" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <meta name="author" content="Bernhard Reitinger" />
+    <meta name="description" content="" />
+    <link rel="stylesheet" href="https://breiting.github.io/css/main.min.61bb32028587f24ca28522d8d197970c7ef33284e5fffb45a75fcbbb2dbc4dcb.css" />
+
+    
+    <meta name="twitter:card" content="summary"/>
+<meta name="twitter:title" content="How suckless changes my life"/>
+<meta name="twitter:description" content="In the last years, I tried get more efficient by removing bloated software on my machine. Some of you may know that I am running Arch Linux, which builds the basis for my daily activities. On top of it, the terminal is my main working area. Last year I switched from traditional window managers to the tiling window manager dwm. Tiling window managers have the advantage that your screen is not messed up with floating windows which need to be moved, resized using the mouse."/>
+
+    <meta property="og:title" content="How suckless changes my life" />
+<meta property="og:description" content="In the last years, I tried get more efficient by removing bloated software on my machine. Some of you may know that I am running Arch Linux, which builds the basis for my daily activities. On top of it, the terminal is my main working area. Last year I switched from traditional window managers to the tiling window manager dwm. Tiling window managers have the advantage that your screen is not messed up with floating windows which need to be moved, resized using the mouse." />
+<meta property="og:type" content="article" />
+<meta property="og:url" content="https://breiting.github.io/posts/2019-03-12-suckless/" />
+<meta property="article:published_time" content="2019-03-12T00:00:00+00:00" />
+<meta property="article:modified_time" content="2019-03-12T00:00:00+00:00" />
+
+
+  </head>
+  <body>
+    <header class="app-header">
+      <a href="https://breiting.github.io"><img class="app-header-avatar" src="/avatar.jpg" alt="Bernhard Reitinger" /></a>
+      <h1>@breiting</h1>
+      <p>software minimalist</p>
+      <div class="app-header-social">
+        
+          <a target="_blank" href="https://github.com/breiting" rel="noreferrer noopener"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="icon icon-github">
+  <title>github</title>
+  <path d="M9 19c-5 1.5-5-2.5-7-3m14 6v-3.87a3.37 3.37 0 0 0-.94-2.61c3.14-.35 6.44-1.54 6.44-7A5.44 5.44 0 0 0 20 4.77 5.07 5.07 0 0 0 19.91 1S18.73.65 16 2.48a13.38 13.38 0 0 0-7 0C6.27.65 5.09 1 5.09 1A5.07 5.07 0 0 0 5 4.77a5.44 5.44 0 0 0-1.5 3.78c0 5.42 3.3 6.61 6.44 7A3.37 3.37 0 0 0 9 18.13V22"></path>
+</svg></a>
+        
+          <a target="_blank" href="https://twitter.com/rebreiting" rel="noreferrer noopener"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="icon icon-twitter">
+  <title>twitter</title>
+  <path d="M23 3a10.9 10.9 0 0 1-3.14 1.53 4.48 4.48 0 0 0-7.86 3v1A10.66 10.66 0 0 1 3 4s-4 9 5 13a11.64 11.64 0 0 1-7 2c9 5 20 0 20-11.5a4.5 4.5 0 0 0-.08-.83A7.72 7.72 0 0 0 23 3z"></path>
+</svg></a>
+        
+      </div>
+      <br/>
+
+      <p><a href="/about">about me</a></p>
+    </header>
+    <main class="app-container">
+      
+  <article class="post">
+    <header class="post-header">
+      <h1 class ="post-title">How suckless changes my life</h1>
+      <div class="post-meta">
+        <div>
+          <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="icon icon-calendar">
+  <title>calendar</title>
+  <rect x="3" y="4" width="18" height="18" rx="2" ry="2"></rect><line x1="16" y1="2" x2="16" y2="6"></line><line x1="8" y1="2" x2="8" y2="6"></line><line x1="3" y1="10" x2="21" y2="10"></line>
+</svg>
+          Mar 12, 2019
+        </div>
+        <div>
+          <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="icon icon-clock">
+  <title>clock</title>
+  <circle cx="12" cy="12" r="10"></circle><polyline points="12 6 12 12 16 14"></polyline>
+</svg>
+          2 min read
+        </div><div>
+          <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="icon icon-tag">
+  <title>tag</title>
+  <path d="M20.59 13.41l-7.17 7.17a2 2 0 0 1-2.83 0L2 12V2h10l8.59 8.59a2 2 0 0 1 0 2.82z"></path><line x1="7" y1="7" x2="7" y2="7"></line>
+</svg>
+          <a class="tag" href="https://breiting.github.io/tags/suckless/">suckless</a><a class="tag" href="https://breiting.github.io/tags/minimal/">minimal</a></div></div>
+    </header>
+    <div class="post-content">
+      <p>In the last years, I tried get more efficient by removing bloated software on my machine. Some of you may know that I am
+running <a href="https://archlinux.org">Arch Linux</a>, which builds the basis for my daily activities. On top of it, the
+<a href="https://en.wikipedia.org/wiki/Rxvt">terminal</a> is my main working area. Last year I switched from traditional window
+managers to the tiling window manager <a href="https://dwm.suckless.org">dwm</a>. Tiling window managers have the advantage that
+your screen is not messed up with floating windows which need to be moved, resized using the mouse. This is how my
+environment looks like as of writing this blog:</p>
+<p><img src="/img/dwm.png" alt=""></p>
+<p>I tried to build a table of preferred software programs which serve a certain purpose. I addition to the programs, I
+also have a set of config files (<a href="https://github.com/breiting/breiting">dotfiles</a>) configuring my working environment.</p>
+<h2 id="basic">Basic</h2>
+<table>
+<thead>
+<tr>
+<th>Purpose</th>
+<th>Preferred software</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Operating system</td>
+<td><a href="https://archlinux.org">Arch Linux</a></td>
+</tr>
+<tr>
+<td>Editor</td>
+<td><a href="https://vim.org">vim</a></td>
+</tr>
+<tr>
+<td>Terminal</td>
+<td><a href="https://st.suckless.org/">st</a> and <a href="https://en.wikipedia.org/wiki/Rxvt">urxvt</a></td>
+</tr>
+<tr>
+<td>Window manager</td>
+<td><a href="https://dwm.suckless.org/">dwm</a></td>
+</tr>
+<tr>
+<td>Desktop environment</td>
+<td>I do not need one :-)</td>
+</tr>
+<tr>
+<td>File manager</td>
+<td><a href="https://ranger.github.io/">ranger</a>, <a href="https://vifm.info/">vifm</a>, <a href="https://github.com/jarun/nnn">nnn</a></td>
+</tr>
+<tr>
+<td>Menu for X</td>
+<td><a href="http://tools.suckless.org/dmenu">dmenu</a></td>
+</tr>
+<tr>
+<td>Programming languages</td>
+<td><a href="https://golang.org">Go</a>, <a href="https://archive.org/details/TheCProgrammingLanguageFirstEdition">C</a></td>
+</tr>
+</tbody>
+</table>
+<h2 id="security">Security</h2>
+<table>
+<thead>
+<tr>
+<th>Purpose</th>
+<th>Preferred software</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Password manager</td>
+<td><a href="https://www.passwordstore.org">pass</a>, <a href="https://www.gopass.pw/">gopass</a></td>
+</tr>
+<tr>
+<td>Encrypting data</td>
+<td><a href="https://gnupg.org/">GnuPG</a></td>
+</tr>
+</tbody>
+</table>
+<h2 id="remote-storage">Remote storage</h2>
+<table>
+<thead>
+<tr>
+<th>Purpose</th>
+<th>Preferred software</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Remote storage</td>
+<td><a href="https://nextcloud.com">Nextcloud</a></td>
+</tr>
+<tr>
+<td>Sync with cloud</td>
+<td><a href="https://rclone.org/">rclone</a></td>
+</tr>
+</tbody>
+</table>
+<h2 id="emails-calendars-contacts-internet">Emails, Calendars, Contacts, Internet</h2>
+<table>
+<thead>
+<tr>
+<th>Purpose</th>
+<th>Preferred software</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Email</td>
+<td><a href="https://neomutt.org/">neomutt</a></td>
+</tr>
+<tr>
+<td>Sync emails</td>
+<td><a href="http://isync.sourceforge.net/">mbsync</a></td>
+</tr>
+<tr>
+<td>Send emails</td>
+<td><a href="https://marlam.de/msmtp/">msmtp</a></td>
+</tr>
+<tr>
+<td>Calendar</td>
+<td><a href="https://github.com/pimutils/khal">khal</a></td>
+</tr>
+<tr>
+<td>Addresses</td>
+<td><a href="https://github.com/scheibler/khard/">khard</a></td>
+</tr>
+<tr>
+<td>Todo</td>
+<td><a href="https://github.com/pimutils/todoman/">todoman</a></td>
+</tr>
+<tr>
+<td>Syncing calendar/contacts</td>
+<td><a href="https://vdirsyncer.pimutils.org/">vdirsyncer</a></td>
+</tr>
+<tr>
+<td>Chatting</td>
+<td><a href="https://riot.im">Riot</a>, <a href="https://signal.org">Signal</a></td>
+</tr>
+<tr>
+<td>Browser</td>
+<td><a href="https://www.mozilla.org/en-US/firefox/new/">Firefox</a>, <a href="https://surf.suckless.org/">Surf</a>, <a href="https://qutebrowser.org/">Qutebrowser</a></td>
+</tr>
+<tr>
+<td>Search engine</td>
+<td><a href="https://duckduckgo.com">DuckDuckGo</a></td>
+</tr>
+</tbody>
+</table>
+<h2 id="content-creation">Content creation</h2>
+<table>
+<thead>
+<tr>
+<th>Purpose</th>
+<th>Preferred software</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Editor</td>
+<td><a href="https://vim.org">vim</a></td>
+</tr>
+<tr>
+<td>Slides, presentations</td>
+<td><a href="https://en.wikipedia.org/wiki/Beamer_(LaTeX)">Beamer</a>, <a href="https://www.libreoffice.org/">Libreoffice</a>, <a href="https://git.suckless.org/sent/">sent</a></td>
+</tr>
+<tr>
+<td>Documents</td>
+<td><a href="https://daringfireball.net/projects/markdown/">Markdown</a>, <a href="https://www.latex-project.org/">LaTeX</a>, <a href="https://pandoc.org">Pandoc</a></td>
+</tr>
+<tr>
+<td>Static page generator</td>
+<td><a href="https://jekyllrb.com/">Jekyll</a>, <a href="https://gohugo.io/">Hugo</a></td>
+</tr>
+</tbody>
+</table>
+<h2 id="tools">Tools</h2>
+<table>
+<thead>
+<tr>
+<th>Purpose</th>
+<th>Preferred software</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Syncing</td>
+<td><a href="https://syncthing.net/">Synthing</a></td>
+</tr>
+<tr>
+<td>CLI fuzzy finder</td>
+<td><a href="https://github.com/junegunn/fzf">fzf</a></td>
+</tr>
+</tbody>
+</table>
+<h2 id="images">Images</h2>
+<table>
+<thead>
+<tr>
+<th>Purpose</th>
+<th>Preferred software</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Image viewer</td>
+<td><a href="https://github.com/muennich/sxiv">sxiv</a>, <a href="https://feh.finalrewind.org/">feh</a></td>
+</tr>
+<tr>
+<td>Image editing</td>
+<td><a href="https://www.imagemagick.org/">ImageMagick</a>, <a href="https://www.gimp.org/">Gimp</a></td>
+</tr>
+</tbody>
+</table>
+<h2 id="programming">Programming</h2>
+<table>
+<thead>
+<tr>
+<th>Purpose</th>
+<th>Preferred software</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Source control</td>
+<td><a href="https://git.kernel.org/pub/scm/git/git.git/">Git</a></td>
+</tr>
+<tr>
+<td>Code hosting</td>
+<td><a href="https://github.com">Github</a></td>
+</tr>
+</tbody>
+</table>
+
+    </div>
+    <div class="post-footer">
+      
+    </div>
+  </article>
+
+    </main>
+  </body>
+</html>

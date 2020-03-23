@@ -1,9 +1,9 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>minimal on Bernhard&#39;s Blog</title>
+    <title>minimal on @breiting</title>
     <link>https://breiting.github.io/tags/minimal/</link>
-    <description>Recent content in minimal on Bernhard&#39;s Blog</description>
+    <description>Recent content in minimal on @breiting</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Tue, 12 Mar 2019 00:00:00 +0000</lastBuildDate>
@@ -13,10 +13,10 @@
     
     <item>
       <title>How suckless changes my life</title>
-      <link>https://breiting.github.io/blog/2019-03-12-suckless/</link>
+      <link>https://breiting.github.io/posts/2019-03-12-suckless/</link>
       <pubDate>Tue, 12 Mar 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://breiting.github.io/blog/2019-03-12-suckless/</guid>
+      <guid>https://breiting.github.io/posts/2019-03-12-suckless/</guid>
       <description>In the last years, I tried get more efficient by removing bloated software on my machine. Some of you may know that I am running Arch Linux, which builds the basis for my daily activities. On top of it, the terminal is my main working area. Last year I switched from traditional window managers to the tiling window manager dwm. Tiling window managers have the advantage that your screen is not messed up with floating windows which need to be moved, resized using the mouse.</description>
     </item>
     
