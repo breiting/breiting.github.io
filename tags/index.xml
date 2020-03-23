@@ -2,129 +2,129 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on @breiting</title>
-    <link>https://breiting.github.io/tags/</link>
+    <link>https://blog.geistreich.io/tags/</link>
     <description>Recent content in Tags on @breiting</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Tue, 21 May 2019 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="https://breiting.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://blog.geistreich.io/tags/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>docker</title>
-      <link>https://breiting.github.io/tags/docker/</link>
+      <link>https://blog.geistreich.io/tags/docker/</link>
       <pubDate>Tue, 21 May 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://breiting.github.io/tags/docker/</guid>
+      <guid>https://blog.geistreich.io/tags/docker/</guid>
       <description></description>
     </item>
     
     <item>
       <title>minimal</title>
-      <link>https://breiting.github.io/tags/minimal/</link>
+      <link>https://blog.geistreich.io/tags/minimal/</link>
       <pubDate>Tue, 12 Mar 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://breiting.github.io/tags/minimal/</guid>
+      <guid>https://blog.geistreich.io/tags/minimal/</guid>
       <description></description>
     </item>
     
     <item>
       <title>no waste</title>
-      <link>https://breiting.github.io/tags/no-waste/</link>
+      <link>https://blog.geistreich.io/tags/no-waste/</link>
       <pubDate>Tue, 12 Mar 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://breiting.github.io/tags/no-waste/</guid>
+      <guid>https://blog.geistreich.io/tags/no-waste/</guid>
       <description></description>
     </item>
     
     <item>
       <title>suckless</title>
-      <link>https://breiting.github.io/tags/suckless/</link>
+      <link>https://blog.geistreich.io/tags/suckless/</link>
       <pubDate>Tue, 12 Mar 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://breiting.github.io/tags/suckless/</guid>
+      <guid>https://blog.geistreich.io/tags/suckless/</guid>
       <description></description>
     </item>
     
     <item>
       <title>functions</title>
-      <link>https://breiting.github.io/tags/functions/</link>
+      <link>https://blog.geistreich.io/tags/functions/</link>
       <pubDate>Fri, 17 Aug 2018 00:00:00 +0000</pubDate>
       
-      <guid>https://breiting.github.io/tags/functions/</guid>
+      <guid>https://blog.geistreich.io/tags/functions/</guid>
       <description></description>
     </item>
     
     <item>
       <title>shell</title>
-      <link>https://breiting.github.io/tags/shell/</link>
+      <link>https://blog.geistreich.io/tags/shell/</link>
       <pubDate>Fri, 17 Aug 2018 00:00:00 +0000</pubDate>
       
-      <guid>https://breiting.github.io/tags/shell/</guid>
+      <guid>https://blog.geistreich.io/tags/shell/</guid>
       <description></description>
     </item>
     
     <item>
       <title>zsh</title>
-      <link>https://breiting.github.io/tags/zsh/</link>
+      <link>https://blog.geistreich.io/tags/zsh/</link>
       <pubDate>Fri, 17 Aug 2018 00:00:00 +0000</pubDate>
       
-      <guid>https://breiting.github.io/tags/zsh/</guid>
+      <guid>https://blog.geistreich.io/tags/zsh/</guid>
       <description></description>
     </item>
     
     <item>
       <title>coding</title>
-      <link>https://breiting.github.io/tags/coding/</link>
+      <link>https://blog.geistreich.io/tags/coding/</link>
       <pubDate>Mon, 13 Aug 2018 00:00:00 +0000</pubDate>
       
-      <guid>https://breiting.github.io/tags/coding/</guid>
+      <guid>https://blog.geistreich.io/tags/coding/</guid>
       <description></description>
     </item>
     
     <item>
       <title>editor</title>
-      <link>https://breiting.github.io/tags/editor/</link>
+      <link>https://blog.geistreich.io/tags/editor/</link>
       <pubDate>Mon, 13 Aug 2018 00:00:00 +0000</pubDate>
       
-      <guid>https://breiting.github.io/tags/editor/</guid>
+      <guid>https://blog.geistreich.io/tags/editor/</guid>
       <description></description>
     </item>
     
     <item>
       <title>go</title>
-      <link>https://breiting.github.io/tags/go/</link>
+      <link>https://blog.geistreich.io/tags/go/</link>
       <pubDate>Mon, 13 Aug 2018 00:00:00 +0000</pubDate>
       
-      <guid>https://breiting.github.io/tags/go/</guid>
+      <guid>https://blog.geistreich.io/tags/go/</guid>
       <description></description>
     </item>
     
     <item>
       <title>golang</title>
-      <link>https://breiting.github.io/tags/golang/</link>
+      <link>https://blog.geistreich.io/tags/golang/</link>
       <pubDate>Mon, 13 Aug 2018 00:00:00 +0000</pubDate>
       
-      <guid>https://breiting.github.io/tags/golang/</guid>
+      <guid>https://blog.geistreich.io/tags/golang/</guid>
       <description></description>
     </item>
     
     <item>
       <title>primer</title>
-      <link>https://breiting.github.io/tags/primer/</link>
+      <link>https://blog.geistreich.io/tags/primer/</link>
       <pubDate>Mon, 13 Aug 2018 00:00:00 +0000</pubDate>
       
-      <guid>https://breiting.github.io/tags/primer/</guid>
+      <guid>https://blog.geistreich.io/tags/primer/</guid>
       <description></description>
     </item>
     
     <item>
       <title>style</title>
-      <link>https://breiting.github.io/tags/style/</link>
+      <link>https://blog.geistreich.io/tags/style/</link>
       <pubDate>Mon, 13 Aug 2018 00:00:00 +0000</pubDate>
       
-      <guid>https://breiting.github.io/tags/style/</guid>
+      <guid>https://blog.geistreich.io/tags/style/</guid>
       <description></description>
     </item>
     

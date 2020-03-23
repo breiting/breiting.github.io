@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>golang on @breiting</title>
-    <link>https://breiting.github.io/tags/golang/</link>
+    <link>https://blog.geistreich.io/tags/golang/</link>
     <description>Recent content in golang on @breiting</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Mon, 13 Aug 2018 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="https://breiting.github.io/tags/golang/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://blog.geistreich.io/tags/golang/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>The Go language</title>
-      <link>https://breiting.github.io/posts/2018-08-13-golang/</link>
+      <link>https://blog.geistreich.io/posts/2018-08-13-golang/</link>
       <pubDate>Mon, 13 Aug 2018 00:00:00 +0000</pubDate>
       
-      <guid>https://breiting.github.io/posts/2018-08-13-golang/</guid>
+      <guid>https://blog.geistreich.io/posts/2018-08-13-golang/</guid>
       <description>I recently discovered the &amp;ldquo;new&amp;rdquo; programming language Go and really got my attention. Go was announced in November 2009 and the first version (v1.0) was released in March 2012. Go has strong influence from the C programming language but brings some cool features:
  Statically typed and scalable to large systems (like Java or C++) Productive and readable, without excessive boilerplate Not requiring integrated development environments (nice VIM integration :-) Supporting networking and multiprocessing  Mandatory for every programming language, there is my first Go program (main.</description>
     </item>
