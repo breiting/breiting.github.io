@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>@breiting</title>
+    <title>geistreich blog</title>
     <link>https://blog.geistreich.io/</link>
-    <description>Recent content on @breiting</description>
+    <description>Recent content on geistreich blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 13 Aug 2018 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 23 Mar 2019 00:00:00 +0100</lastBuildDate>
     
 	<atom:link href="https://blog.geistreich.io/index.xml" rel="self" type="application/rss+xml" />
     
@@ -19,6 +19,16 @@
       <guid>https://blog.geistreich.io/posts/2019-05-21-docker-tcp/</guid>
       <description>On my Arch system, docker does not expose the tcp port by default, therefore I get the following error:
 Warning: failed to get default registry endpoint from daemon (Cannot connect to the Docker daemon at tcp://192.168.0.16:2375. Is the docker daemon running?). Using system default: https://index.docker.io/v1/ Cannot connect to the Docker daemon at tcp://192.168.0.16:2375. Is the docker daemon running? It took me quite some time to get the root cause of the problem.</description>
+    </item>
+    
+    <item>
+      <title>About me</title>
+      <link>https://blog.geistreich.io/about/</link>
+      <pubDate>Sat, 23 Mar 2019 00:00:00 +0100</pubDate>
+      
+      <guid>https://blog.geistreich.io/about/</guid>
+      <description>Software development is my passion. I bought my first PC equipped with a 80286 in the late eighties working with MS-DOS. In 1995 is started my computer science studies at JKU Linz, Austria, and graduated as Dr. techn. at Graz University of Technology in the year 2005.
+After founding reecon - a software consulting company - in 2013, I started my next venture with Robotic Eyes where I am currently acting as technical director.</description>
     </item>
     
     <item>
@@ -38,16 +48,6 @@ Warning: failed to get default registry endpoint from daemon (Cannot connect to 
       <guid>https://blog.geistreich.io/posts/2018-08-17-remote-machines/</guid>
       <description>As a heavy shell user, I typically try to reduce the number of keystrokes required to fulfill a certain task. As I am working a lot with remote machines, I am logging into those machines pretty often.
 Problem statement In order to log into a remote machine, I am using the ssh command. The typical command is ssh &amp;lt;user&amp;gt;@192.168.0.123, if the user is named differently on the other machine. I am often facing the following problems:</description>
-    </item>
-    
-    <item>
-      <title>About me</title>
-      <link>https://blog.geistreich.io/about/</link>
-      <pubDate>Mon, 13 Aug 2018 00:00:00 +0000</pubDate>
-      
-      <guid>https://blog.geistreich.io/about/</guid>
-      <description>Software development is my passion. I bought my first PC equipped with a 80286 in the late eighties working with MS-DOS. In 1995 is started my computer science studies at JKU Linz, Austria, and graduated as Dr. techn. at Graz University of Technology in the year 2005.
-After founding reecon - a software consulting company - in 2013, I started my next venture with Robotic Eyes where I am currently acting as technical director.</description>
     </item>
     
     <item>

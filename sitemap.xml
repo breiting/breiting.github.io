@@ -23,6 +23,16 @@
   </url>
   
   <url>
+    <loc>https://blog.geistreich.io/about/</loc>
+    <lastmod>2019-03-23T00:00:00+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://blog.geistreich.io/</loc>
+    <lastmod>2019-03-23T00:00:00+01:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://blog.geistreich.io/posts/2019-03-12-suckless/</loc>
     <lastmod>2019-03-12T00:00:00+00:00</lastmod>
   </url>
@@ -60,16 +70,6 @@
   <url>
     <loc>https://blog.geistreich.io/tags/zsh/</loc>
     <lastmod>2018-08-17T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://blog.geistreich.io/</loc>
-    <lastmod>2018-08-13T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://blog.geistreich.io/about/</loc>
-    <lastmod>2018-08-13T00:00:00+00:00</lastmod>
   </url>
   
   <url>
