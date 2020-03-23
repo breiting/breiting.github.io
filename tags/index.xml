@@ -6,10 +6,46 @@
     <description>Recent content in Tags on geistreich blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 21 May 2019 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 23 Mar 2020 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://blog.geistreich.io/tags/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>covid-19</title>
+      <link>https://blog.geistreich.io/tags/covid-19/</link>
+      <pubDate>Mon, 23 Mar 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://blog.geistreich.io/tags/covid-19/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>hackathon</title>
+      <link>https://blog.geistreich.io/tags/hackathon/</link>
+      <pubDate>Mon, 23 Mar 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://blog.geistreich.io/tags/hackathon/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>script</title>
+      <link>https://blog.geistreich.io/tags/script/</link>
+      <pubDate>Mon, 23 Mar 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://blog.geistreich.io/tags/script/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>work</title>
+      <link>https://blog.geistreich.io/tags/work/</link>
+      <pubDate>Mon, 23 Mar 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://blog.geistreich.io/tags/work/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>docker</title>

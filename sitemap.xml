@@ -3,22 +3,47 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://blog.geistreich.io/tags/covid-19/</loc>
+    <lastmod>2020-03-23T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://blog.geistreich.io/posts/2020-03-23-covid-19/</loc>
+    <lastmod>2020-03-23T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://blog.geistreich.io/tags/hackathon/</loc>
+    <lastmod>2020-03-23T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://blog.geistreich.io/posts/</loc>
+    <lastmod>2020-03-23T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://blog.geistreich.io/tags/script/</loc>
+    <lastmod>2020-03-23T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://blog.geistreich.io/tags/</loc>
+    <lastmod>2020-03-23T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://blog.geistreich.io/tags/work/</loc>
+    <lastmod>2020-03-23T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://blog.geistreich.io/tags/docker/</loc>
     <lastmod>2019-05-21T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>https://blog.geistreich.io/posts/2019-05-21-docker-tcp/</loc>
-    <lastmod>2019-05-21T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://blog.geistreich.io/posts/</loc>
-    <lastmod>2019-05-21T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://blog.geistreich.io/tags/</loc>
     <lastmod>2019-05-21T00:00:00+00:00</lastmod>
   </url>
   

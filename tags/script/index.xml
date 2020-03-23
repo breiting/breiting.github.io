@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>script on geistreich blog</title>
+    <link>https://blog.geistreich.io/tags/script/</link>
+    <description>Recent content in script on geistreich blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 23 Mar 2020 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://blog.geistreich.io/tags/script/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>COVID-19 and the effect on how we work</title>
+      <link>https://blog.geistreich.io/posts/2020-03-23-covid-19/</link>
+      <pubDate>Mon, 23 Mar 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://blog.geistreich.io/posts/2020-03-23-covid-19/</guid>
+      <description>We are in week two of the corona pandemic. The last 8 days changed completely how we work and collaborate. We closed our office at Robotic Eyes and all employees had to work from home. As a software company, we are in a good position to switch from on-site collocated style to a complete remote development firm.
+One of the major challenges - except the business impact and consequences - is to keep up the communication and to organize the team.</description>
+    </item>
+    
+  </channel>
+</rss>

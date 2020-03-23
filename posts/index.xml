@@ -6,10 +6,20 @@
     <description>Recent content in Posts on geistreich blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 21 May 2019 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 23 Mar 2020 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://blog.geistreich.io/posts/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>COVID-19 and the effect on how we work</title>
+      <link>https://blog.geistreich.io/posts/2020-03-23-covid-19/</link>
+      <pubDate>Mon, 23 Mar 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://blog.geistreich.io/posts/2020-03-23-covid-19/</guid>
+      <description>We are in week two of the corona pandemic. The last 8 days changed completely how we work and collaborate. We closed our office at Robotic Eyes and all employees had to work from home. As a software company, we are in a good position to switch from on-site collocated style to a complete remote development firm.
+One of the major challenges - except the business impact and consequences - is to keep up the communication and to organize the team.</description>
+    </item>
     
     <item>
       <title>Enable tcp access for docker</title>
