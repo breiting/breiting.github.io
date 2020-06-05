@@ -3,142 +3,152 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://blog.geistreich.io/tags/covid-19/</loc>
+    <loc>https://blog.codepurist.com/about/</loc>
+    <lastmod>2020-06-05T00:00:00+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://blog.codepurist.com/posts/2020-03-26-package/</loc>
+    <lastmod>2020-03-26T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://blog.codepurist.com/tags/archlinux/</loc>
+    <lastmod>2020-03-26T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://blog.codepurist.com/posts/</loc>
+    <lastmod>2020-03-26T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://blog.codepurist.com/tags/suckless/</loc>
+    <lastmod>2020-03-26T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://blog.codepurist.com/tags/</loc>
+    <lastmod>2020-03-26T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://blog.codepurist.com/</loc>
+    <lastmod>2020-03-26T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://blog.codepurist.com/tags/covid-19/</loc>
     <lastmod>2020-03-23T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://blog.geistreich.io/posts/2020-03-23-covid-19/</loc>
+    <loc>https://blog.codepurist.com/posts/2020-03-23-covid-19/</loc>
     <lastmod>2020-03-23T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://blog.geistreich.io/tags/hackathon/</loc>
+    <loc>https://blog.codepurist.com/tags/hackathon/</loc>
     <lastmod>2020-03-23T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://blog.geistreich.io/posts/</loc>
+    <loc>https://blog.codepurist.com/tags/script/</loc>
     <lastmod>2020-03-23T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://blog.geistreich.io/tags/script/</loc>
+    <loc>https://blog.codepurist.com/tags/work/</loc>
     <lastmod>2020-03-23T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://blog.geistreich.io/tags/</loc>
-    <lastmod>2020-03-23T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://blog.geistreich.io/tags/work/</loc>
-    <lastmod>2020-03-23T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://blog.geistreich.io/tags/docker/</loc>
+    <loc>https://blog.codepurist.com/tags/docker/</loc>
     <lastmod>2019-05-21T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://blog.geistreich.io/posts/2019-05-21-docker-tcp/</loc>
+    <loc>https://blog.codepurist.com/posts/2019-05-21-docker-tcp/</loc>
     <lastmod>2019-05-21T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://blog.geistreich.io/about/</loc>
-    <lastmod>2019-03-23T00:00:00+01:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://blog.geistreich.io/</loc>
-    <lastmod>2019-03-23T00:00:00+01:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://blog.geistreich.io/posts/2019-03-12-suckless/</loc>
+    <loc>https://blog.codepurist.com/posts/2019-03-12-suckless/</loc>
     <lastmod>2019-03-12T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://blog.geistreich.io/tags/minimal/</loc>
+    <loc>https://blog.codepurist.com/tags/minimal/</loc>
     <lastmod>2019-03-12T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://blog.geistreich.io/tags/no-waste/</loc>
+    <loc>https://blog.codepurist.com/tags/no-waste/</loc>
     <lastmod>2019-03-12T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://blog.geistreich.io/tags/suckless/</loc>
-    <lastmod>2019-03-12T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://blog.geistreich.io/tags/functions/</loc>
+    <loc>https://blog.codepurist.com/tags/functions/</loc>
     <lastmod>2018-08-17T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://blog.geistreich.io/tags/shell/</loc>
+    <loc>https://blog.codepurist.com/tags/shell/</loc>
     <lastmod>2018-08-17T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://blog.geistreich.io/posts/2018-08-17-remote-machines/</loc>
+    <loc>https://blog.codepurist.com/posts/2018-08-17-remote-machines/</loc>
     <lastmod>2018-08-17T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://blog.geistreich.io/tags/zsh/</loc>
+    <loc>https://blog.codepurist.com/tags/zsh/</loc>
     <lastmod>2018-08-17T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://blog.geistreich.io/tags/coding/</loc>
+    <loc>https://blog.codepurist.com/tags/coding/</loc>
     <lastmod>2018-08-13T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://blog.geistreich.io/tags/editor/</loc>
+    <loc>https://blog.codepurist.com/tags/editor/</loc>
     <lastmod>2018-08-13T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://blog.geistreich.io/tags/go/</loc>
+    <loc>https://blog.codepurist.com/tags/go/</loc>
     <lastmod>2018-08-13T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://blog.geistreich.io/tags/golang/</loc>
+    <loc>https://blog.codepurist.com/tags/golang/</loc>
     <lastmod>2018-08-13T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://blog.geistreich.io/posts/2018-08-13-pimp-your-code/</loc>
+    <loc>https://blog.codepurist.com/posts/2018-08-13-pimp-your-code/</loc>
     <lastmod>2018-08-13T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://blog.geistreich.io/tags/primer/</loc>
+    <loc>https://blog.codepurist.com/tags/primer/</loc>
     <lastmod>2018-08-13T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://blog.geistreich.io/tags/style/</loc>
+    <loc>https://blog.codepurist.com/tags/style/</loc>
     <lastmod>2018-08-13T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://blog.geistreich.io/posts/2018-08-13-golang/</loc>
+    <loc>https://blog.codepurist.com/posts/2018-08-13-golang/</loc>
     <lastmod>2018-08-13T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://blog.geistreich.io/categories/</loc>
+    <loc>https://blog.codepurist.com/categories/</loc>
   </url>
   
 </urlset>

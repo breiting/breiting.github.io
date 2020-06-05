@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>suckless on The CodePurist Blog</title>
-    <link>https://blog.codepurist.com/tags/suckless/</link>
-    <description>Recent content in suckless on The CodePurist Blog</description>
+    <title>archlinux on The CodePurist Blog</title>
+    <link>https://blog.codepurist.com/tags/archlinux/</link>
+    <description>Recent content in archlinux on The CodePurist Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Thu, 26 Mar 2020 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="https://blog.codepurist.com/tags/suckless/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://blog.codepurist.com/tags/archlinux/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
@@ -19,15 +19,6 @@
       <guid>https://blog.codepurist.com/posts/2020-03-26-package/</guid>
       <description>I am currently waiting for my new machine, which I ordered 2 weeks ago. After a lot of research and evaluation, I finally decided to pick the Lenovo T490s. I actually wanted the X1 Carbon, but I was unable to order this machine here in Austria (for whatever reason).
 Nevertheless, the T490s is pretty close to the X1, and delivers a decent platform for my new Archlinux installation. While I am waiting for the delivery (expected date end of next week), I am mentally prepare myself with a new and fresh Arch installation.</description>
-    </item>
-    
-    <item>
-      <title>How suckless changes my life</title>
-      <link>https://blog.codepurist.com/posts/2019-03-12-suckless/</link>
-      <pubDate>Tue, 12 Mar 2019 00:00:00 +0000</pubDate>
-      
-      <guid>https://blog.codepurist.com/posts/2019-03-12-suckless/</guid>
-      <description>In the last years, I tried get more efficient by removing bloated software on my machine. Some of you may know that I am running Arch Linux, which builds the basis for my daily activities. On top of it, the terminal is my main working area. Last year I switched from traditional window managers to the tiling window manager dwm. Tiling window managers have the advantage that your screen is not messed up with floating windows which need to be moved, resized using the mouse.</description>
     </item>
     
   </channel>

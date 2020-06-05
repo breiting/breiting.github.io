@@ -1,166 +1,175 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Tags on geistreich blog</title>
-    <link>https://blog.geistreich.io/tags/</link>
-    <description>Recent content in Tags on geistreich blog</description>
+    <title>Tags on The CodePurist Blog</title>
+    <link>https://blog.codepurist.com/tags/</link>
+    <description>Recent content in Tags on The CodePurist Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 23 Mar 2020 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 26 Mar 2020 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="https://blog.geistreich.io/tags/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://blog.codepurist.com/tags/index.xml" rel="self" type="application/rss+xml" />
     
-    
-    <item>
-      <title>covid-19</title>
-      <link>https://blog.geistreich.io/tags/covid-19/</link>
-      <pubDate>Mon, 23 Mar 2020 00:00:00 +0000</pubDate>
-      
-      <guid>https://blog.geistreich.io/tags/covid-19/</guid>
-      <description></description>
-    </item>
     
     <item>
-      <title>hackathon</title>
-      <link>https://blog.geistreich.io/tags/hackathon/</link>
-      <pubDate>Mon, 23 Mar 2020 00:00:00 +0000</pubDate>
+      <title>archlinux</title>
+      <link>https://blog.codepurist.com/tags/archlinux/</link>
+      <pubDate>Thu, 26 Mar 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://blog.geistreich.io/tags/hackathon/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>script</title>
-      <link>https://blog.geistreich.io/tags/script/</link>
-      <pubDate>Mon, 23 Mar 2020 00:00:00 +0000</pubDate>
-      
-      <guid>https://blog.geistreich.io/tags/script/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>work</title>
-      <link>https://blog.geistreich.io/tags/work/</link>
-      <pubDate>Mon, 23 Mar 2020 00:00:00 +0000</pubDate>
-      
-      <guid>https://blog.geistreich.io/tags/work/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>docker</title>
-      <link>https://blog.geistreich.io/tags/docker/</link>
-      <pubDate>Tue, 21 May 2019 00:00:00 +0000</pubDate>
-      
-      <guid>https://blog.geistreich.io/tags/docker/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>minimal</title>
-      <link>https://blog.geistreich.io/tags/minimal/</link>
-      <pubDate>Tue, 12 Mar 2019 00:00:00 +0000</pubDate>
-      
-      <guid>https://blog.geistreich.io/tags/minimal/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>no waste</title>
-      <link>https://blog.geistreich.io/tags/no-waste/</link>
-      <pubDate>Tue, 12 Mar 2019 00:00:00 +0000</pubDate>
-      
-      <guid>https://blog.geistreich.io/tags/no-waste/</guid>
+      <guid>https://blog.codepurist.com/tags/archlinux/</guid>
       <description></description>
     </item>
     
     <item>
       <title>suckless</title>
-      <link>https://blog.geistreich.io/tags/suckless/</link>
+      <link>https://blog.codepurist.com/tags/suckless/</link>
+      <pubDate>Thu, 26 Mar 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://blog.codepurist.com/tags/suckless/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>covid-19</title>
+      <link>https://blog.codepurist.com/tags/covid-19/</link>
+      <pubDate>Mon, 23 Mar 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://blog.codepurist.com/tags/covid-19/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>hackathon</title>
+      <link>https://blog.codepurist.com/tags/hackathon/</link>
+      <pubDate>Mon, 23 Mar 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://blog.codepurist.com/tags/hackathon/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>script</title>
+      <link>https://blog.codepurist.com/tags/script/</link>
+      <pubDate>Mon, 23 Mar 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://blog.codepurist.com/tags/script/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>work</title>
+      <link>https://blog.codepurist.com/tags/work/</link>
+      <pubDate>Mon, 23 Mar 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://blog.codepurist.com/tags/work/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>docker</title>
+      <link>https://blog.codepurist.com/tags/docker/</link>
+      <pubDate>Tue, 21 May 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://blog.codepurist.com/tags/docker/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>minimal</title>
+      <link>https://blog.codepurist.com/tags/minimal/</link>
       <pubDate>Tue, 12 Mar 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://blog.geistreich.io/tags/suckless/</guid>
+      <guid>https://blog.codepurist.com/tags/minimal/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>no waste</title>
+      <link>https://blog.codepurist.com/tags/no-waste/</link>
+      <pubDate>Tue, 12 Mar 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://blog.codepurist.com/tags/no-waste/</guid>
       <description></description>
     </item>
     
     <item>
       <title>functions</title>
-      <link>https://blog.geistreich.io/tags/functions/</link>
+      <link>https://blog.codepurist.com/tags/functions/</link>
       <pubDate>Fri, 17 Aug 2018 00:00:00 +0000</pubDate>
       
-      <guid>https://blog.geistreich.io/tags/functions/</guid>
+      <guid>https://blog.codepurist.com/tags/functions/</guid>
       <description></description>
     </item>
     
     <item>
       <title>shell</title>
-      <link>https://blog.geistreich.io/tags/shell/</link>
+      <link>https://blog.codepurist.com/tags/shell/</link>
       <pubDate>Fri, 17 Aug 2018 00:00:00 +0000</pubDate>
       
-      <guid>https://blog.geistreich.io/tags/shell/</guid>
+      <guid>https://blog.codepurist.com/tags/shell/</guid>
       <description></description>
     </item>
     
     <item>
       <title>zsh</title>
-      <link>https://blog.geistreich.io/tags/zsh/</link>
+      <link>https://blog.codepurist.com/tags/zsh/</link>
       <pubDate>Fri, 17 Aug 2018 00:00:00 +0000</pubDate>
       
-      <guid>https://blog.geistreich.io/tags/zsh/</guid>
+      <guid>https://blog.codepurist.com/tags/zsh/</guid>
       <description></description>
     </item>
     
     <item>
       <title>coding</title>
-      <link>https://blog.geistreich.io/tags/coding/</link>
+      <link>https://blog.codepurist.com/tags/coding/</link>
       <pubDate>Mon, 13 Aug 2018 00:00:00 +0000</pubDate>
       
-      <guid>https://blog.geistreich.io/tags/coding/</guid>
+      <guid>https://blog.codepurist.com/tags/coding/</guid>
       <description></description>
     </item>
     
     <item>
       <title>editor</title>
-      <link>https://blog.geistreich.io/tags/editor/</link>
+      <link>https://blog.codepurist.com/tags/editor/</link>
       <pubDate>Mon, 13 Aug 2018 00:00:00 +0000</pubDate>
       
-      <guid>https://blog.geistreich.io/tags/editor/</guid>
+      <guid>https://blog.codepurist.com/tags/editor/</guid>
       <description></description>
     </item>
     
     <item>
       <title>go</title>
-      <link>https://blog.geistreich.io/tags/go/</link>
+      <link>https://blog.codepurist.com/tags/go/</link>
       <pubDate>Mon, 13 Aug 2018 00:00:00 +0000</pubDate>
       
-      <guid>https://blog.geistreich.io/tags/go/</guid>
+      <guid>https://blog.codepurist.com/tags/go/</guid>
       <description></description>
     </item>
     
     <item>
       <title>golang</title>
-      <link>https://blog.geistreich.io/tags/golang/</link>
+      <link>https://blog.codepurist.com/tags/golang/</link>
       <pubDate>Mon, 13 Aug 2018 00:00:00 +0000</pubDate>
       
-      <guid>https://blog.geistreich.io/tags/golang/</guid>
+      <guid>https://blog.codepurist.com/tags/golang/</guid>
       <description></description>
     </item>
     
     <item>
       <title>primer</title>
-      <link>https://blog.geistreich.io/tags/primer/</link>
+      <link>https://blog.codepurist.com/tags/primer/</link>
       <pubDate>Mon, 13 Aug 2018 00:00:00 +0000</pubDate>
       
-      <guid>https://blog.geistreich.io/tags/primer/</guid>
+      <guid>https://blog.codepurist.com/tags/primer/</guid>
       <description></description>
     </item>
     
     <item>
       <title>style</title>
-      <link>https://blog.geistreich.io/tags/style/</link>
+      <link>https://blog.codepurist.com/tags/style/</link>
       <pubDate>Mon, 13 Aug 2018 00:00:00 +0000</pubDate>
       
-      <guid>https://blog.geistreich.io/tags/style/</guid>
+      <guid>https://blog.codepurist.com/tags/style/</guid>
       <description></description>
     </item>
     

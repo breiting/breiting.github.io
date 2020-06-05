@@ -1,70 +1,80 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Posts on geistreich blog</title>
-    <link>https://blog.geistreich.io/posts/</link>
-    <description>Recent content in Posts on geistreich blog</description>
+    <title>Posts on The CodePurist Blog</title>
+    <link>https://blog.codepurist.com/posts/</link>
+    <description>Recent content in Posts on The CodePurist Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 23 Mar 2020 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 26 Mar 2020 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="https://blog.geistreich.io/posts/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://blog.codepurist.com/posts/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
+      <title>A Fresh Archlinux Installation</title>
+      <link>https://blog.codepurist.com/posts/2020-03-26-package/</link>
+      <pubDate>Thu, 26 Mar 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://blog.codepurist.com/posts/2020-03-26-package/</guid>
+      <description>I am currently waiting for my new machine, which I ordered 2 weeks ago. After a lot of research and evaluation, I finally decided to pick the Lenovo T490s. I actually wanted the X1 Carbon, but I was unable to order this machine here in Austria (for whatever reason).
+Nevertheless, the T490s is pretty close to the X1, and delivers a decent platform for my new Archlinux installation. While I am waiting for the delivery (expected date end of next week), I am mentally prepare myself with a new and fresh Arch installation.</description>
+    </item>
+    
+    <item>
       <title>COVID-19 and the effect on how we work</title>
-      <link>https://blog.geistreich.io/posts/2020-03-23-covid-19/</link>
+      <link>https://blog.codepurist.com/posts/2020-03-23-covid-19/</link>
       <pubDate>Mon, 23 Mar 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://blog.geistreich.io/posts/2020-03-23-covid-19/</guid>
+      <guid>https://blog.codepurist.com/posts/2020-03-23-covid-19/</guid>
       <description>We are in week two of the corona pandemic. The last 8 days changed completely how we work and collaborate. We closed our office at Robotic Eyes and all employees had to work from home. As a software company, we are in a good position to switch from on-site collocated style to a complete remote development firm.
 One of the major challenges - except the business impact and consequences - is to keep up the communication and to organize the team.</description>
     </item>
     
     <item>
       <title>Enable tcp access for docker</title>
-      <link>https://blog.geistreich.io/posts/2019-05-21-docker-tcp/</link>
+      <link>https://blog.codepurist.com/posts/2019-05-21-docker-tcp/</link>
       <pubDate>Tue, 21 May 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://blog.geistreich.io/posts/2019-05-21-docker-tcp/</guid>
+      <guid>https://blog.codepurist.com/posts/2019-05-21-docker-tcp/</guid>
       <description>On my Arch system, docker does not expose the tcp port by default, therefore I get the following error:
 Warning: failed to get default registry endpoint from daemon (Cannot connect to the Docker daemon at tcp://192.168.0.16:2375. Is the docker daemon running?). Using system default: https://index.docker.io/v1/ Cannot connect to the Docker daemon at tcp://192.168.0.16:2375. Is the docker daemon running? It took me quite some time to get the root cause of the problem.</description>
     </item>
     
     <item>
       <title>How suckless changes my life</title>
-      <link>https://blog.geistreich.io/posts/2019-03-12-suckless/</link>
+      <link>https://blog.codepurist.com/posts/2019-03-12-suckless/</link>
       <pubDate>Tue, 12 Mar 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://blog.geistreich.io/posts/2019-03-12-suckless/</guid>
+      <guid>https://blog.codepurist.com/posts/2019-03-12-suckless/</guid>
       <description>In the last years, I tried get more efficient by removing bloated software on my machine. Some of you may know that I am running Arch Linux, which builds the basis for my daily activities. On top of it, the terminal is my main working area. Last year I switched from traditional window managers to the tiling window manager dwm. Tiling window managers have the advantage that your screen is not messed up with floating windows which need to be moved, resized using the mouse.</description>
     </item>
     
     <item>
       <title>Working with remote machines</title>
-      <link>https://blog.geistreich.io/posts/2018-08-17-remote-machines/</link>
+      <link>https://blog.codepurist.com/posts/2018-08-17-remote-machines/</link>
       <pubDate>Fri, 17 Aug 2018 00:00:00 +0000</pubDate>
       
-      <guid>https://blog.geistreich.io/posts/2018-08-17-remote-machines/</guid>
+      <guid>https://blog.codepurist.com/posts/2018-08-17-remote-machines/</guid>
       <description>As a heavy shell user, I typically try to reduce the number of keystrokes required to fulfill a certain task. As I am working a lot with remote machines, I am logging into those machines pretty often.
 Problem statement In order to log into a remote machine, I am using the ssh command. The typical command is ssh &amp;lt;user&amp;gt;@192.168.0.123, if the user is named differently on the other machine. I am often facing the following problems:</description>
     </item>
     
     <item>
       <title>Pimp your code</title>
-      <link>https://blog.geistreich.io/posts/2018-08-13-pimp-your-code/</link>
+      <link>https://blog.codepurist.com/posts/2018-08-13-pimp-your-code/</link>
       <pubDate>Mon, 13 Aug 2018 00:00:00 +0000</pubDate>
       
-      <guid>https://blog.geistreich.io/posts/2018-08-13-pimp-your-code/</guid>
+      <guid>https://blog.codepurist.com/posts/2018-08-13-pimp-your-code/</guid>
       <description>Joining a new software development team typically means new coding guidelines and rules. If you are lucky and no guidelines are in place, it is your obligation to take care and define them. To my opinion, coding guidelines make sense and are important for the product quality. They deliver a good foundation for collaborative developments and easy maintenance. I am not talking about a 50 pager, where everything is defined - no - only the most important things should be part of the guideline, for example:</description>
     </item>
     
     <item>
       <title>The Go language</title>
-      <link>https://blog.geistreich.io/posts/2018-08-13-golang/</link>
+      <link>https://blog.codepurist.com/posts/2018-08-13-golang/</link>
       <pubDate>Mon, 13 Aug 2018 00:00:00 +0000</pubDate>
       
-      <guid>https://blog.geistreich.io/posts/2018-08-13-golang/</guid>
+      <guid>https://blog.codepurist.com/posts/2018-08-13-golang/</guid>
       <description>I recently discovered the &amp;ldquo;new&amp;rdquo; programming language Go and really got my attention. Go was announced in November 2009 and the first version (v1.0) was released in March 2012. Go has strong influence from the C programming language but brings some cool features:
  Statically typed and scalable to large systems (like Java or C++) Productive and readable, without excessive boilerplate Not requiring integrated development environments (nice VIM integration :-) Supporting networking and multiprocessing  Mandatory for every programming language, there is my first Go program (main.</description>
     </item>

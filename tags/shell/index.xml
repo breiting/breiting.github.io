@@ -1,22 +1,22 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>shell on geistreich blog</title>
-    <link>https://blog.geistreich.io/tags/shell/</link>
-    <description>Recent content in shell on geistreich blog</description>
+    <title>shell on The CodePurist Blog</title>
+    <link>https://blog.codepurist.com/tags/shell/</link>
+    <description>Recent content in shell on The CodePurist Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Fri, 17 Aug 2018 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="https://blog.geistreich.io/tags/shell/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://blog.codepurist.com/tags/shell/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Working with remote machines</title>
-      <link>https://blog.geistreich.io/posts/2018-08-17-remote-machines/</link>
+      <link>https://blog.codepurist.com/posts/2018-08-17-remote-machines/</link>
       <pubDate>Fri, 17 Aug 2018 00:00:00 +0000</pubDate>
       
-      <guid>https://blog.geistreich.io/posts/2018-08-17-remote-machines/</guid>
+      <guid>https://blog.codepurist.com/posts/2018-08-17-remote-machines/</guid>
       <description>As a heavy shell user, I typically try to reduce the number of keystrokes required to fulfill a certain task. As I am working a lot with remote machines, I am logging into those machines pretty often.
 Problem statement In order to log into a remote machine, I am using the ssh command. The typical command is ssh &amp;lt;user&amp;gt;@192.168.0.123, if the user is named differently on the other machine. I am often facing the following problems:</description>
     </item>
