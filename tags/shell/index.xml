@@ -6,11 +6,7 @@
     <description>Recent content in shell on The CodePurist Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 17 Aug 2018 00:00:00 +0000</lastBuildDate>
-    
-	<atom:link href="https://blog.codepurist.com/tags/shell/index.xml" rel="self" type="application/rss+xml" />
-    
-    
+    <lastBuildDate>Fri, 17 Aug 2018 00:00:00 +0000</lastBuildDate><atom:link href="https://blog.codepurist.com/tags/shell/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Working with remote machines</title>
       <link>https://blog.codepurist.com/posts/2018-08-17-remote-machines/</link>

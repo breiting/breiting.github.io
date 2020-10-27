@@ -6,11 +6,7 @@
     <description>Recent content in docker on The CodePurist Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 21 May 2019 00:00:00 +0000</lastBuildDate>
-    
-	<atom:link href="https://blog.codepurist.com/tags/docker/index.xml" rel="self" type="application/rss+xml" />
-    
-    
+    <lastBuildDate>Tue, 21 May 2019 00:00:00 +0000</lastBuildDate><atom:link href="https://blog.codepurist.com/tags/docker/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Enable tcp access for docker</title>
       <link>https://blog.codepurist.com/posts/2019-05-21-docker-tcp/</link>

@@ -6,11 +6,7 @@
     <description>Recent content in archlinux on The CodePurist Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 26 Mar 2020 00:00:00 +0000</lastBuildDate>
-    
-	<atom:link href="https://blog.codepurist.com/tags/archlinux/index.xml" rel="self" type="application/rss+xml" />
-    
-    
+    <lastBuildDate>Thu, 26 Mar 2020 00:00:00 +0000</lastBuildDate><atom:link href="https://blog.codepurist.com/tags/archlinux/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>A Fresh Archlinux Installation</title>
       <link>https://blog.codepurist.com/posts/2020-03-26-package/</link>
