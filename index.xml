@@ -6,7 +6,18 @@
     <description>Recent content on The CodePurist Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 26 Mar 2020 00:00:00 +0000</lastBuildDate><atom:link href="https://blog.codepurist.com/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 05 Nov 2020 00:00:00 +0000</lastBuildDate><atom:link href="https://blog.codepurist.com/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Pair programming with tmux</title>
+      <link>https://blog.codepurist.com/posts/2020-11-05-tmux-pairing/</link>
+      <pubDate>Thu, 05 Nov 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://blog.codepurist.com/posts/2020-11-05-tmux-pairing/</guid>
+      <description>tmux is a terminal multiplexer and is a perfect tool for organizing sessions in your terminal.
+However, it can also be used to setup a pair programming session between two developers. Assuming that both developers are logged into the same machine, a new shared tmux session can be spawned as follows
+$ tmux -S /tmp/tmux-shared new -s shared This opens up a new tmux session with the name shared and a socket on the local machine /tmp/tmux-shared.</description>
+    </item>
+    
     <item>
       <title>About me</title>
       <link>https://blog.codepurist.com/about/</link>
