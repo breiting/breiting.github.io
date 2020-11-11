@@ -3,27 +3,52 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://blog.codepurist.com/tags/analysis/</loc>
+    <lastmod>2020-11-11T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://blog.codepurist.com/tags/azure/</loc>
+    <lastmod>2020-11-11T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://blog.codepurist.com/posts/</loc>
+    <lastmod>2020-11-11T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://blog.codepurist.com/tags/speech/</loc>
+    <lastmod>2020-11-11T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://blog.codepurist.com/posts/2020-11-11-speech-analysis/</loc>
+    <lastmod>2020-11-11T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://blog.codepurist.com/tags/</loc>
+    <lastmod>2020-11-11T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://blog.codepurist.com/</loc>
+    <lastmod>2020-11-11T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://blog.codepurist.com/tags/youtube/</loc>
+    <lastmod>2020-11-11T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://blog.codepurist.com/posts/2020-11-05-tmux-pairing/</loc>
     <lastmod>2020-11-05T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://blog.codepurist.com/posts/</loc>
-    <lastmod>2020-11-05T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://blog.codepurist.com/tags/programming/</loc>
-    <lastmod>2020-11-05T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://blog.codepurist.com/tags/</loc>
-    <lastmod>2020-11-05T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://blog.codepurist.com/</loc>
     <lastmod>2020-11-05T00:00:00+00:00</lastmod>
   </url>
   

@@ -6,7 +6,20 @@
     <description>Recent content in Posts on The CodePurist Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 05 Nov 2020 00:00:00 +0000</lastBuildDate><atom:link href="https://blog.codepurist.com/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 11 Nov 2020 00:00:00 +0000</lastBuildDate><atom:link href="https://blog.codepurist.com/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Speech Analysis with Azure and Go</title>
+      <link>https://blog.codepurist.com/posts/2020-11-11-speech-analysis/</link>
+      <pubDate>Wed, 11 Nov 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://blog.codepurist.com/posts/2020-11-11-speech-analysis/</guid>
+      <description>The last Apple event from November 10th, 2020 inspired me to think about being able to get the most frequently used words automatically from such a well prepared presentation.
+By combining different existing tools and services, I should be able to complete this challenge within 1-2 hours of hacking. At least, that was my assumption.
+Challenge accepted!
+Basic Ingredients What would be required to get this job done?
+ Get the audio from the Youtube video as wav or mp3 Extract the text from the recorded audio Analyse the text and make a simple word histogram Filter out words which have no special meaning (e.</description>
+    </item>
+    
     <item>
       <title>Pair programming with tmux</title>
       <link>https://blog.codepurist.com/posts/2020-11-05-tmux-pairing/</link>
