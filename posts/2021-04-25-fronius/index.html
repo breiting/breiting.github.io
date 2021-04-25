@@ -1,7 +1,7 @@
 <!doctype html>
 <html lang="en-us">
   <head>
-    <title>A Fresh Archlinux Installation // The CodePurist Blog</title>
+    <title>Configure Fronius Symo LAN Access // The CodePurist Blog</title>
     <meta charset="utf-8" />
     <meta name="generator" content="Hugo 0.82.0" />
     <meta name="viewport" content="width=device-width, initial-scale=1" />
@@ -20,17 +20,17 @@
 
     
     <meta name="twitter:card" content="summary"/>
-<meta name="twitter:title" content="A Fresh Archlinux Installation"/>
-<meta name="twitter:description" content="I am currently waiting for my new machine, which I ordered 2 weeks ago. After a lot of research and evaluation, I finally decided to pick the Lenovo T490s. I actually wanted the X1 Carbon, but I was unable to order this machine here in Austria (for whatever reason).
-Nevertheless, the T490s is pretty close to the X1, and delivers a decent platform for my new Archlinux installation. While I am waiting for the delivery (expected date end of next week), I am mentally prepare myself with a new and fresh Arch installation."/>
+<meta name="twitter:title" content="Configure Fronius Symo LAN Access"/>
+<meta name="twitter:description" content="A couple of years ago, I invested into a solar energy system, which is mounted on my roof and can produce 4kw peak. As of writing this article I already produced 35 mega watt energy for my house.
+The inverter is a Fronius Symo 3.7 and has LAN as well as WIFI in order to show the current produced energy. The WIFI can be configured by directly connecting a PC with a LAN cable."/>
 
-    <meta property="og:title" content="A Fresh Archlinux Installation" />
-<meta property="og:description" content="I am currently waiting for my new machine, which I ordered 2 weeks ago. After a lot of research and evaluation, I finally decided to pick the Lenovo T490s. I actually wanted the X1 Carbon, but I was unable to order this machine here in Austria (for whatever reason).
-Nevertheless, the T490s is pretty close to the X1, and delivers a decent platform for my new Archlinux installation. While I am waiting for the delivery (expected date end of next week), I am mentally prepare myself with a new and fresh Arch installation." />
+    <meta property="og:title" content="Configure Fronius Symo LAN Access" />
+<meta property="og:description" content="A couple of years ago, I invested into a solar energy system, which is mounted on my roof and can produce 4kw peak. As of writing this article I already produced 35 mega watt energy for my house.
+The inverter is a Fronius Symo 3.7 and has LAN as well as WIFI in order to show the current produced energy. The WIFI can be configured by directly connecting a PC with a LAN cable." />
 <meta property="og:type" content="article" />
-<meta property="og:url" content="https://blog.codepurist.com/posts/2020-03-26-package/" /><meta property="article:section" content="posts" />
-<meta property="article:published_time" content="2020-03-26T00:00:00&#43;00:00" />
-<meta property="article:modified_time" content="2020-03-26T00:00:00&#43;00:00" />
+<meta property="og:url" content="https://blog.codepurist.com/posts/2021-04-25-fronius/" /><meta property="article:section" content="posts" />
+<meta property="article:published_time" content="2021-04-25T00:00:00&#43;00:00" />
+<meta property="article:modified_time" content="2021-04-25T00:00:00&#43;00:00" />
 
 
 
@@ -66,48 +66,52 @@ Nevertheless, the T490s is pretty close to the X1, and delivers a decent platfor
       
   <article class="post">
     <header class="post-header">
-      <h1 class ="post-title">A Fresh Archlinux Installation</h1>
+      <h1 class ="post-title">Configure Fronius Symo LAN Access</h1>
       <div class="post-meta">
         <div>
           <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="icon icon-calendar">
   <title>calendar</title>
   <rect x="3" y="4" width="18" height="18" rx="2" ry="2"></rect><line x1="16" y1="2" x2="16" y2="6"></line><line x1="8" y1="2" x2="8" y2="6"></line><line x1="3" y1="10" x2="21" y2="10"></line>
 </svg>
-          Mar 26, 2020
+          Apr 25, 2021
         </div>
         <div>
           <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="icon icon-clock">
   <title>clock</title>
   <circle cx="12" cy="12" r="10"></circle><polyline points="12 6 12 12 16 14"></polyline>
 </svg>
-          2 min read
+          1 min read
         </div><div>
           <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="icon icon-tag">
   <title>tag</title>
   <path d="M20.59 13.41l-7.17 7.17a2 2 0 0 1-2.83 0L2 12V2h10l8.59 8.59a2 2 0 0 1 0 2.82z"></path><line x1="7" y1="7" x2="7" y2="7"></line>
 </svg>
-          <a class="tag" href="https://blog.codepurist.com/tags/suckless/">suckless</a><a class="tag" href="https://blog.codepurist.com/tags/archlinux/">archlinux</a></div></div>
+          <a class="tag" href="https://blog.codepurist.com/tags/fronius/">fronius</a><a class="tag" href="https://blog.codepurist.com/tags/energy/">energy</a><a class="tag" href="https://blog.codepurist.com/tags/network/">network</a></div></div>
     </header>
     <div class="post-content">
-      <p>I am currently waiting for my new machine, which I ordered 2 weeks ago. After a lot of research and
-evaluation, I finally decided to pick the <a href="https://www.lenovo.com/us/en/laptops/thinkpad/thinkpad-t-series/ThinkPad-T490s/p/22TP2TT490S">Lenovo
-T490s</a>.
-I actually wanted the X1 Carbon, but I was unable to order this machine here in Austria (for
-whatever reason).</p>
-<p>Nevertheless, the T490s is pretty close to the X1, and delivers a decent platform for my new Archlinux
-installation. While I am waiting for the delivery (expected date end of next week), I am mentally
-prepare myself with a new and fresh Arch installation.</p>
-<p>In order to see, which packages will reside on my new machine, I just checked the list of installed
-packages on my existing Arch installation. And I was surprised! I have <strong>1376!</strong> packages installed
-over the last 2 years.</p>
-<div class="highlight"><pre style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4"><code class="language-sh" data-lang="sh">$ pacman -Q | sort &gt; packages.txt
-</code></pre></div><p>This is not inline with my definition of minimalism. I just decided to install the bare minimum
-system and then add the things which pop-up along the way.</p>
-<p>A great article about setting up a base Arch Linux system using encrypted disks can be found
-<a href="https://linuxconfig.org/install-arch-linux-on-thinkpad-x1-carbon-gen-7-with-encrypted-filesystem-and-uefi">here</a>.</p>
-<p>Of course, <a href="https://dwm.suckless.org">dwm</a> is my preferred (tiled) window manager. With <a href="https://tools.suckless.org/dmenu/">dmenu</a>
-and <a href="https://github.com/alacritty/alacritty">Alacritty</a> I am fine to start. Just have a look
-at my <a href="/posts/2019-03-12-suckless">list of software packages</a> I use.</p>
+      <p>A couple of years ago, I invested into a solar energy system, which is mounted
+on my roof and can produce 4kw peak. As of writing this article I already
+produced 35 mega watt energy for my house.</p>
+<p>The inverter is a Fronius Symo 3.7 and has LAN as well as WIFI in order to show
+the current produced energy. The WIFI can be configured by directly connecting a
+PC with a LAN cable.</p>
+<p>Every once in a while, I am re-configuring my WIFI system and had to change the
+SSID as well as the passwords. Everytime I do also have to connect via LAN and
+re-configure the WIFI settings on the inverter.</p>
+<p>The following steps are necessary to properly connect to the inverter with a
+laptop and a connected LAN cable:</p>
+<ol>
+<li>Connect a laptop with a LAN cable to the RJ45 connector.</li>
+<li>Setup the network address to static address (see the settings below)</li>
+<li>Open up a browser and go to <code>169.254.0.180</code>, which is the pre-defined address
+for the Fronius Symo inverter.</li>
+<li>Use the web gui to change your WLAN settings.</li>
+</ol>
+<pre><code>mode       : manual
+ip address : 169.254.0.10
+subnet     : 255.255.255.0
+router     : 169.254.0.180
+</code></pre><p>Everytime, I again had to do the research, so I hope this simple tutorial helps.</p>
 
     </div>
     <div class="post-footer">

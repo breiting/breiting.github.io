@@ -6,7 +6,17 @@
     <description>Recent content on The CodePurist Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 11 Nov 2020 00:00:00 +0000</lastBuildDate><atom:link href="https://blog.codepurist.com/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 25 Apr 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://blog.codepurist.com/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Configure Fronius Symo LAN Access</title>
+      <link>https://blog.codepurist.com/posts/2021-04-25-fronius/</link>
+      <pubDate>Sun, 25 Apr 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://blog.codepurist.com/posts/2021-04-25-fronius/</guid>
+      <description>A couple of years ago, I invested into a solar energy system, which is mounted on my roof and can produce 4kw peak. As of writing this article I already produced 35 mega watt energy for my house.
+The inverter is a Fronius Symo 3.7 and has LAN as well as WIFI in order to show the current produced energy. The WIFI can be configured by directly connecting a PC with a LAN cable.</description>
+    </item>
+    
     <item>
       <title>Speech Analysis with Azure and Go</title>
       <link>https://blog.codepurist.com/posts/2020-11-11-speech-analysis/</link>

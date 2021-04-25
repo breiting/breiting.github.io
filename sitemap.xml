@@ -1,194 +1,130 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
-  
   <url>
+    <loc>https://blog.codepurist.com/posts/2021-04-25-fronius/</loc>
+    <lastmod>2021-04-25T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://blog.codepurist.com/tags/energy/</loc>
+    <lastmod>2021-04-25T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://blog.codepurist.com/tags/fronius/</loc>
+    <lastmod>2021-04-25T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://blog.codepurist.com/tags/network/</loc>
+    <lastmod>2021-04-25T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://blog.codepurist.com/posts/</loc>
+    <lastmod>2021-04-25T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://blog.codepurist.com/tags/</loc>
+    <lastmod>2021-04-25T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://blog.codepurist.com/</loc>
+    <lastmod>2021-04-25T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>https://blog.codepurist.com/tags/analysis/</loc>
     <lastmod>2020-11-11T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://blog.codepurist.com/tags/azure/</loc>
     <lastmod>2020-11-11T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://blog.codepurist.com/posts/</loc>
-    <lastmod>2020-11-11T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://blog.codepurist.com/tags/speech/</loc>
     <lastmod>2020-11-11T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://blog.codepurist.com/posts/2020-11-11-speech-analysis/</loc>
     <lastmod>2020-11-11T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://blog.codepurist.com/tags/</loc>
-    <lastmod>2020-11-11T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://blog.codepurist.com/</loc>
-    <lastmod>2020-11-11T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://blog.codepurist.com/tags/youtube/</loc>
     <lastmod>2020-11-11T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://blog.codepurist.com/posts/2020-11-05-tmux-pairing/</loc>
     <lastmod>2020-11-05T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://blog.codepurist.com/tags/programming/</loc>
     <lastmod>2020-11-05T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://blog.codepurist.com/tags/tmux/</loc>
     <lastmod>2020-11-05T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://blog.codepurist.com/about/</loc>
     <lastmod>2020-06-05T00:00:00+02:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://blog.codepurist.com/posts/2020-03-26-package/</loc>
     <lastmod>2020-03-26T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://blog.codepurist.com/tags/archlinux/</loc>
     <lastmod>2020-03-26T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://blog.codepurist.com/tags/suckless/</loc>
     <lastmod>2020-03-26T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://blog.codepurist.com/tags/covid-19/</loc>
     <lastmod>2020-03-23T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://blog.codepurist.com/posts/2020-03-23-covid-19/</loc>
     <lastmod>2020-03-23T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://blog.codepurist.com/tags/hackathon/</loc>
     <lastmod>2020-03-23T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://blog.codepurist.com/tags/script/</loc>
     <lastmod>2020-03-23T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://blog.codepurist.com/tags/work/</loc>
     <lastmod>2020-03-23T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://blog.codepurist.com/tags/docker/</loc>
     <lastmod>2019-05-21T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://blog.codepurist.com/posts/2019-05-21-docker-tcp/</loc>
     <lastmod>2019-05-21T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://blog.codepurist.com/posts/2019-03-12-suckless/</loc>
     <lastmod>2019-03-12T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://blog.codepurist.com/tags/minimal/</loc>
     <lastmod>2019-03-12T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://blog.codepurist.com/tags/no-waste/</loc>
     <lastmod>2019-03-12T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://blog.codepurist.com/tags/functions/</loc>
     <lastmod>2018-08-17T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://blog.codepurist.com/tags/shell/</loc>
     <lastmod>2018-08-17T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://blog.codepurist.com/posts/2018-08-17-remote-machines/</loc>
     <lastmod>2018-08-17T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://blog.codepurist.com/tags/zsh/</loc>
     <lastmod>2018-08-17T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://blog.codepurist.com/tags/coding/</loc>
     <lastmod>2018-08-13T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://blog.codepurist.com/tags/editor/</loc>
     <lastmod>2018-08-13T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://blog.codepurist.com/tags/go/</loc>
     <lastmod>2018-08-13T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://blog.codepurist.com/tags/golang/</loc>
     <lastmod>2018-08-13T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://blog.codepurist.com/posts/2018-08-13-pimp-your-code/</loc>
     <lastmod>2018-08-13T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://blog.codepurist.com/tags/primer/</loc>
     <lastmod>2018-08-13T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://blog.codepurist.com/tags/style/</loc>
     <lastmod>2018-08-13T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://blog.codepurist.com/posts/2018-08-13-golang/</loc>
     <lastmod>2018-08-13T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://blog.codepurist.com/categories/</loc>
   </url>
-  
 </urlset>

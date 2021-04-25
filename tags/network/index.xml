@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>network on The CodePurist Blog</title>
+    <link>https://blog.codepurist.com/tags/network/</link>
+    <description>Recent content in network on The CodePurist Blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 25 Apr 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://blog.codepurist.com/tags/network/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Configure Fronius Symo LAN Access</title>
+      <link>https://blog.codepurist.com/posts/2021-04-25-fronius/</link>
+      <pubDate>Sun, 25 Apr 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://blog.codepurist.com/posts/2021-04-25-fronius/</guid>
+      <description>A couple of years ago, I invested into a solar energy system, which is mounted on my roof and can produce 4kw peak. As of writing this article I already produced 35 mega watt energy for my house.
+The inverter is a Fronius Symo 3.7 and has LAN as well as WIFI in order to show the current produced energy. The WIFI can be configured by directly connecting a PC with a LAN cable.</description>
+    </item>
+    
+  </channel>
+</rss>
